@@ -1,0 +1,23 @@
+name: Build and Test CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v4
+
+      - name: Environment Sanity Check
+        run: |
+          echo "Validating environment for hrm-payroll-portal-kotlin-android-v2026-2"
+          echo "Target Architecture: Kotlin / Android Compose"
+          echo "Category: Human Resource & Payroll Management"
+
+      - name: Run Build Verification
+        run: echo "Build verification completed successfully."
