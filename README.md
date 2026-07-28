@@ -1,26 +1,19 @@
 # hrm-payroll-portal-kotlin-android-v2026-2
 
-[![Tech Stack](https://img.shields.io/badge/Stack-Kotlin%20/%20Android%20Compose-0052CC?style=for-the-badge)](https://github.com/ejajmahmud/hrm-payroll-portal-kotlin-android-v2026-2)
-[![Category](https://img.shields.io/badge/Category-Human%20Resource%20&%20Payroll%20Management-00875A?style=for-the-badge)](https://github.com/ejajmahmud/hrm-payroll-portal-kotlin-android-v2026-2)
-[![License](https://img.shields.io/badge/License-MIT-6B5B95?style=for-the-badge)](LICENSE)
+Hey there! This is a complete project repository featuring Kotlin.
 
-## Summary
-**hrm-payroll-portal-kotlin-android-v2026-2** is an enterprise-grade software solution built for **Human Resource & Payroll Management**. Powered by **Kotlin / Android Compose**.
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-## System Architecture & Scope
-Employee onboarding, attendance tracking, performance reviews, and automated payroll calculation.
+## Tech Stack & Highlights
+- **Primary Tech Stack**: Kotlin
+- Zero bloat, clean directories, and fully structured.
 
-## Key Highlights
-- **Clean Architecture**: Modular, extensible architecture built for enterprise cloud deployment.
-- **Automated CI/CD Workflows**: Pre-configured GitHub Actions CI pipeline for automated testing.
-- **Docker Ready**: Production-grade container configuration included.
-- **Clean-Room Software Synthesis**: 100% compliant custom architecture.
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
 
-## Quick Start
-```bash
-git clone https://github.com/ejajmahmud/hrm-payroll-portal-kotlin-android-v2026-2.git
-cd hrm-payroll-portal-kotlin-android-v2026-2
-```
-
-## License
-Published under the [MIT License](LICENSE).
+---
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
